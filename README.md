@@ -5,8 +5,8 @@
 Team name: Gidget
 
 Group members:
-Abby Ko
-Gina Cameras
-Jacob Bellagio
+Abby Ko,
+Gina Cameras,
+Jacob Bellagio,
 Ray King
 
