@@ -15,7 +15,7 @@ Ray King
 
 We would like to work with the census data specific to the Austin area.
 
-*The kinds of questions you'll be asking of that data
+The kinds of questions you'll be asking of that data
 Population growth over the last X years and what contributed to the growth?
 
 
