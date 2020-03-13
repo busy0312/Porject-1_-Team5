@@ -1,6 +1,6 @@
 # Porject-1_-Team5
 
-#Project 1 Proposal
+Project 1 Proposal
  
 Team name: Gidget
 
