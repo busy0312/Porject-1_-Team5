@@ -1,4 +1,4 @@
-# Porject-1_-Team5
+# Project-1_-Team5
 
 Project 1 Proposal
  
@@ -45,6 +45,8 @@ Hospitality
     Bars/Restaurants	
     
 Which zip code showed the largest change in growth and why?
+
+How does this compare to other large cities?
 
 *Possible source for such data
 
