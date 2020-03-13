@@ -44,9 +44,9 @@ Hospitality
     X-Games/F1
     Bars/Restaurants	
     
-*Which zip code showed the largest change in growth and why?
+Which zip code showed the largest change in growth and why?
 
-Possible source for such data
+*Possible source for such data
 
 Census data
 Google places
