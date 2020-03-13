@@ -12,6 +12,7 @@ Ray King
 
 
 *The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
+
 We would like to work with the census data specific to the Austin area.
 
 *The kinds of questions you'll be asking of that data
