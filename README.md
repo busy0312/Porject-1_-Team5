@@ -19,15 +19,19 @@ Population growth over the last X years and what contributed to the growth?
 
 
 Companies/businesses:
+
 Technology
+
     Software (Facebook, IBM, Indeed, Intel, Microsoft, Apple, Amazon)
     Hardware (Motorola, Silicon Labs, Dell, Motorola)
     Internet Growth
 Music
+
     Concert Venues
     Music festivals
     (8-Track, Records, Cassettes, CDs, MP3/Hard drives)
 Government
+
     Infrastructure Projects
     Political Science
     University Growth
@@ -35,5 +39,6 @@ Government
     Commercial
     Residential
 Hospitality
+
     X-Games/F1
     Bars/Restaurants	
