@@ -1,6 +1,6 @@
 Project 1 Proposal
 
-**Team name: Gidget
+**Team name: Gidget**
 
 #Group members:
 Abby Ko
