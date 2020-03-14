@@ -14,7 +14,9 @@ Ray King
 
  -We would like to work avocado data to understand trends in the US market.
 
+
 *The kinds of questions you'll be asking of that data
+
 
  -What percentage of avocados are conventional compared to organic?
  -What is the average price? Per year?
