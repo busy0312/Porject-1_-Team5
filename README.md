@@ -1,8 +1,8 @@
 Project 1 Proposal
 
-#Team name: Gidget
+**Team name: Gidget
 
-##Group members:
+#Group members:
 Abby Ko
 Gina Cameras
 Jacob Bellagio
