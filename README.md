@@ -21,11 +21,9 @@ The kinds of questions you'll be asking of that data
 
 ```
 What percentage of avocados are conventional compared to organic?
-What is the average price? Per year?
-What size bag sold the most (small, large, xlarge)?
+What size avocado is most popular (by bag, by PLU)?
 What regions sold the most avocados?
-What is the total sales volume YoY?
-What number PLU sold the most (4046, 4225, 4770)?
+Is there seasonality for avocado sales (MoM, YoY)?
 ```
 
 [Data Set](https://www.kaggle.com/neuromusic/avocado-prices)
