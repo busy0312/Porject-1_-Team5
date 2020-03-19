@@ -20,7 +20,7 @@ The kind of data you'd like to work with/field you're interested in (e.g., geoda
 The kinds of questions you'll be asking of that data
 
 ```
-What percentage of avocados are conventional compared to organic?
+What percentage of avocados are conventional compared to organic? Per year?
 What size avocado is most popular (by bag, by PLU)?
 What regions sold the most avocados?
 Is there seasonality for avocado sales (MoM, YoY)?
