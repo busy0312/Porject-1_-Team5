@@ -27,5 +27,7 @@ Is there seasonality for avocado sales (MoM, YoY)?
 ```
 
 [Data Set](https://www.kaggle.com/neuromusic/avocado-prices)
+
+
 [Census](https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml?src=bkmk)
 
