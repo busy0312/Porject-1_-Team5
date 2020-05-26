@@ -30,3 +30,5 @@ Is there seasonality for avocado sales (MoM, YoY)?
 
 [Census](https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml?src=bkmk)
 
+[Final Slides](https://docs.google.com/presentation/d/1kSydaXKKduF7PBs9BBhaarUnhAA_LQEueIX8d35FU1o/edit?usp=sharing)
+
